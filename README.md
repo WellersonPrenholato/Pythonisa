@@ -57,7 +57,7 @@ Este método constroi o problema de PL a partir de um dataframe construído com 
     def optimize():
     ```
     
-*  **showLP()**: Este método executa o *solver* para um problema de PL montado com o método mountLP().
+*  **showLP()**: Este método exibe o problema de PL anteriormente montado com o método mountLP().
     
     ```Python
     def optimize():
